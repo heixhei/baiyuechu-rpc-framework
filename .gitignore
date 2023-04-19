@@ -1,0 +1,4 @@
+# 项目排除路径
+/baiyuechu-netty-demo/target/
+/baiyuechu-rpc-consumer/target/
+/baiyuechu-rpc-provider/target/
