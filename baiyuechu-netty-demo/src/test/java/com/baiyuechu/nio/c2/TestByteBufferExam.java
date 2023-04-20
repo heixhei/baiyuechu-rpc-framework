@@ -35,6 +35,7 @@ public class TestByteBufferExam {
                 for (int j = 0; j < length; j++) {
                     target.put(source.get());
                 }
+                System.out.println(target.toString());
                 debugAll(target);
             }
         }
